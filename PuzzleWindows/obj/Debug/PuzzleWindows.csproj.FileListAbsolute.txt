@@ -1,0 +1,10 @@
+c:\users\mirim\source\repos\PuzzleWindows\PuzzleWindows\bin\Debug\PuzzleWindows.exe.config
+c:\users\mirim\source\repos\PuzzleWindows\PuzzleWindows\bin\Debug\PuzzleWindows.exe
+c:\users\mirim\source\repos\PuzzleWindows\PuzzleWindows\bin\Debug\PuzzleWindows.pdb
+c:\users\mirim\source\repos\PuzzleWindows\PuzzleWindows\obj\Debug\PuzzleWindows.Properties.Resources.resources
+c:\users\mirim\source\repos\PuzzleWindows\PuzzleWindows\obj\Debug\PuzzleWindows.csproj.GenerateResource.Cache
+c:\users\mirim\source\repos\PuzzleWindows\PuzzleWindows\obj\Debug\PuzzleWindows.csproj.CoreCompileInputs.cache
+c:\users\mirim\source\repos\PuzzleWindows\PuzzleWindows\obj\Debug\PuzzleWindows.exe
+c:\users\mirim\source\repos\PuzzleWindows\PuzzleWindows\obj\Debug\PuzzleWindows.pdb
+c:\users\mirim\source\repos\PuzzleWindows\PuzzleWindows\obj\Debug\PuzzleWindows.Form1.resources
+C:\Users\Mirim\source\repos\PuzzleWindows\PuzzleWindows\obj\Debug\PuzzleWindows.csprojAssemblyReference.cache
